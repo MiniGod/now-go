@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "deep-assign": "^2.0.0",
-    "micro": "^7.2.1",
+    "micro": "^7.3.3",
     "node-fetch": "^1.6.3"
   },
   "engines": {
